@@ -1,5 +1,4 @@
-	require 'date'
-require 'time'
+require 'date'
 class BusinessHours
 	attr_accessor :workingsec
 	attr_reader	:exceptions
